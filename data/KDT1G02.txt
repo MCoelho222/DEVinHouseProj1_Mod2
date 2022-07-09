@@ -1,0 +1,10 @@
+tipo: moto
+chassi: 0BFDRKNDZV3K63018
+ano: 1878
+nome: Corvette
+placa: KDT1G02
+valor: 250000
+cor: Laranja
+cpf: 0
+potencia: 140 cv
+rodas: 2
