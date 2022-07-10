@@ -1,5 +1,4 @@
 from os.path import join, abspath, dirname
-# from errors import NotAllowedError
 
 class Veiculos:
 
@@ -62,12 +61,16 @@ class Veiculos:
     def _cpf(self, novo_cpf):
         self.cpf = novo_cpf
     
+    def listarInfo(self) -> None:
+        info = dict(self.__dict__)
+        for key, value in info.items():
+            print(f'{key}: {value}')     
 
     def salvarveiculo(self) -> None:
 
         ROOT_PATH = dirname(dirname(abspath(__file__)))
         DATA_PATH = join(ROOT_PATH, 'data')
-        FILE_PATH = join(DATA_PATH, f'{self.placa}.txt')
+        FILE_PATH = join(DATA_PATH, f'{self.tipo}_{self.placa}.txt')
         veiculo = open(FILE_PATH, 'a')
         objkeys = list(self.__dict__.keys())
 
@@ -80,7 +83,7 @@ class Veiculos:
         veiculo.close()
 
 
-    def listarInfo(self) -> list:
+    def listarSavedInfo(self) -> list:
 
         ROOT_PATH = dirname(dirname(abspath(__file__)))
         DATA_PATH = join(ROOT_PATH, 'data')

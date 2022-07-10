@@ -1,0 +1,11 @@
+tipo: carro
+chassi: 1MFUHSTHLK9Y29751
+ano: 2010
+nome: Golch
+placa: LMZ9F24
+valor: 12.500,00
+cor: azul
+cpf: 450.834.288-90
+portas: 2
+potencia: 100 CV
+combustivel: alcool

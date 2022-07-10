@@ -1,7 +1,7 @@
 import numpy as np
 
 def criaChassi(pais, fabricante):
-    print('Qual o continente de origem do veículo?')
+    print('Qual o continente de origem do veículo?\n')
     print('[1] Ásia')
     print('[2] África')
     print('[3] Europa')

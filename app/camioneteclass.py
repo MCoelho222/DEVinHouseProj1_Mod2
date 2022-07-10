@@ -21,5 +21,8 @@ class Camionete(Veiculos):
 if __name__ == "__main__":
 
     a = Camionete('Camionete', 'BDGFHR2475657', 2020, 'Ranger', 'FGT6G05', 140000, 'Diesel', '120 cv', '100 L', '008.528.229-44')
-    a.salvarveiculo()
-    a.listarInfo()
+    b = dict(a.__dict__)
+    b['tipo'] = 'bike'
+    a.__dict__ = b
+    print(a.__dict__)
+    # a.listarInfo()

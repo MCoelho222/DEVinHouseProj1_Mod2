@@ -1,0 +1,11 @@
+tipo: carro
+chassi: 0STKFHHFLF2G90098
+ano: 2015
+nome: Trendas
+placa: WCOP8E52
+valor: 31.000,00
+cor: Amarelo
+cpf: 0
+portas: 2
+potencia: 145 CV
+combustivel: Flex

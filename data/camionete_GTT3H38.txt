@@ -1,0 +1,11 @@
+tipo: camionete
+chassi: 0ISUMCVDEV1N47003
+ano: 2020
+nome: Ningan
+placa: GTT3H38
+valor: 300.550,00
+cor: Roxa
+cpf: 0
+combustivel: Diesel
+potencia: 250 CV
+cacamba: 2000 L

@@ -1,0 +1,11 @@
+tipo: carro
+chassi: 0ITDUMMSNV9701832
+ano: 1999
+nome: Incubus
+placa: MLS7I81
+valor: 216.000,00
+cor: Neon
+cpf: 664.629.117-52
+portas: 4
+potencia: 1200 CV
+combustivel: Flex
