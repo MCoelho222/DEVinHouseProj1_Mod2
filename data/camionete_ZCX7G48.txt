@@ -1,0 +1,13 @@
+tipo: camionete
+pais: India
+fabricante: Devon
+chassi: 4IDVTXRGEA3G72091
+ano: 2020
+nome: Endurer
+placa: ZCX7G48
+valor: 333.000,00
+cor: Roxa
+cpf: 0
+combustivel: Diesel
+potencia: 220 CV
+cacamba: 3000 L

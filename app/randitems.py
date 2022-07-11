@@ -1,39 +1,38 @@
 import numpy as np
 
 def criaChassi(pais, fabricante):
-    print('Qual o continente de origem do veículo?\n')
-    print('[1] Ásia')
-    print('[2] África')
-    print('[3] Europa')
-    print('[4] América do Norte')
-    print('[5] América do Sul')
-    print('[6] América do Norte\n')
-    continente = input('R: ')
-    
-    cod1 = 0
+    # print('Qual o continente de origem do veículo?\n')
+    # print('[1] Ásia')
+    # print('[2] África')
+    # print('[3] Europa')
+    # print('[4] América do Norte')
+    # print('[5] América do Sul')
+    # print('[6] América do Norte\n')
+    # continente = input('R: ')
+    continente = np.random.randint(1, 6)
     def rand(a, b, options) -> str:
         n_rand = np.random.randint(a, b)
         return options[n_rand]
-
-    if continente == '1':
+    cod1 = 0
+    if continente == 1:
         options = ['J', 'K', 'L', 'M', 'N', 'P', 'R']
         rand(0, len(options), options)
 
-    if continente == '2':
+    if continente == 2:
         options = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
         rand(0, len(options), options)
 
-    if continente == '3':
+    if continente == 3:
         options = ['S', 'T', 'U', 'V', 'X', 'Z']
         rand(0, len(options), options)
     
-    if continente == '4':
+    if continente == 4:
         cod1 = np.random.randint(1, 6)
 
-    if continente == '5':
+    if continente == 5:
         cod1 = np.random.randint(8, 10)
 
-    if continente == '6':
+    if continente == 6:
         cod1 = np.random.randint(6, 8)
 
     cod2 = pais[0].upper()
@@ -76,8 +75,7 @@ def criaPlaca():
     cod5 = np.random.randint(0, 10)
     return f'{cod1}{cod2}{cod3}{cod4}{cod5}'
 
+# if __name__ == "__main__":
 
-if __name__ == "__main__":
-
-    print(criaChassi('Congo', 'Tesla'))
-    print(criaPlaca())
+#     print(criaChassi('Congo', 'Tesla'))
+#     print(criaPlaca())

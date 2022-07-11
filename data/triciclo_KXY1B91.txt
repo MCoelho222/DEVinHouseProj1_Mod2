@@ -1,0 +1,12 @@
+tipo: triciclo
+pais: Franca
+fabricante: Volkswagen
+chassi: 0FVUEMYURC8G09674
+ano: 2020
+nome: Froin
+placa: KXY1B91
+valor: 55.000,00
+cor: Preto
+cpf: 0
+potencia: 100 CV
+rodas: 3

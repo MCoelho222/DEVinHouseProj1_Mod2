@@ -1,0 +1,12 @@
+tipo: moto
+pais: Congo
+fabricante: Westbrown
+chassi: 5CWLJKWKTM9Z86854
+ano: 2022
+nome: Green
+placa: KYW9D56
+valor: 20.000,00
+cor: Verde
+cpf: 0
+potencia: 200 CV
+rodas: 2

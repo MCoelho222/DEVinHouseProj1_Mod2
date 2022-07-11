@@ -1,0 +1,13 @@
+tipo: carro
+pais: China
+fabricante: West Coast
+chassi: 8MWAPUEAYX9V14951
+ano: 2022
+nome: Nichelle
+placa: VTOP8J63
+valor: 250.000,00
+cor: Verde
+cpf: 123.345.454-98
+portas: 4
+potencia: 150 CV
+combustivel: Gasolina

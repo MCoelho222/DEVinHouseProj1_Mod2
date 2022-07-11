@@ -1,0 +1,13 @@
+tipo: carro
+pais: Alemanha
+fabricante: Toyota
+chassi: 4ATXPBAUEF7V53478
+ano: 2022
+nome: Ryan
+placa: CCX3C81
+valor: 275.000,00
+cor: Azul
+cpf: 0
+portas: 4
+potencia: 332 CV
+combustivel: Gasolina

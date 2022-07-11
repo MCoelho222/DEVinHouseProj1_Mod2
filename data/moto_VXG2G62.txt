@@ -1,0 +1,12 @@
+tipo: moto
+pais: Brunei
+fabricante: Derson
+chassi: 2BDNYZCFBT6725873
+ano: 2017
+nome: Poly
+placa: VXG2G62
+valor: 50.000,00
+cor: Dourado
+cpf: 008.528.229-44
+potencia: 200 CV
+rodas: 2

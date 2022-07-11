@@ -1,0 +1,13 @@
+tipo: camionete
+pais: Eua
+fabricante: Porsche
+chassi: 1EPTMFSGES2E01657
+ano: 2023
+nome: Noren
+placa: FTE7B97
+valor: 900.000,00
+cor: Roxa
+cpf: 856.399.222-89
+combustivel: Biodiesel
+potencia: 500 CV
+cacamba: 5000 L

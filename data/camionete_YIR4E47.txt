@@ -1,0 +1,13 @@
+tipo: camionete
+pais: Paraguay
+fabricante: Chinay
+chassi: 2PCVTCWHSF9L02961
+ano: 2021
+nome: Troy
+placa: YIR4E47
+valor: 450.000,00
+cor: Roxa
+cpf: 0
+combustivel: Diesel
+potencia: 300 CV
+cacamba: 5000 L

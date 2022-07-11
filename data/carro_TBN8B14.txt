@@ -1,0 +1,13 @@
+tipo: carro
+pais: Cuba
+fabricante: Elfron
+chassi: 0CEAXEYZKS6T84224
+ano: 2020
+nome: Houch
+placa: TBN8B14
+valor: 99.000,00
+cor: Marrom
+cpf: 876.234.453-00
+portas: 4
+potencia: 325 CV
+combustivel: Gasolina
