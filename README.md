@@ -2,6 +2,7 @@
 
 * Projeto DEVinCar
 * IMPORTANTE: executar **main.py**
+* Para iniciar do zero => apagar **arquivos.txt** na pasta **data**
 
 ## Funcionalidades
 
